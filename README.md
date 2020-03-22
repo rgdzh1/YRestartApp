@@ -1,4 +1,4 @@
-# YRestartApp 使用
+### YRestartApp 使用
 
 - 依赖
    ```groovy
