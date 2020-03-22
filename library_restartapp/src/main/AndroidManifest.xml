@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yey.library_restartapp">
+
+    <application>
+        <service
+            android:name=".YeyKillAppService"
+            android:process=":yey_restart_app_service" />
+    </application>
+
+</manifest>

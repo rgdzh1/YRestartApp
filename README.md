@@ -1,2 +1,2 @@
-# YRestartApp
-APP重启
+# YRestartApp 使用
+
