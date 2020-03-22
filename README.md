@@ -2,7 +2,7 @@
 
 - 依赖
    ```groovy
-    implementation 'com.yey.library_restartapp:library_restartapp:0.0.1'
+    implementation 'com.yey.library_restartapp:library_restartapp:0.0.2'
    ```
 - 使用
     ```java
